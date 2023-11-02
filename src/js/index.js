@@ -1,9 +1,9 @@
-// Importa React y ReactDOM
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-// Incluye tus estilos en el paquete de webpack
+
 import '../styles/index.css';
 
 class SimpleCounter extends React.Component {
